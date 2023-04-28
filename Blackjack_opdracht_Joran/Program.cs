@@ -6,6 +6,6 @@ class Program
     {
         Game game = new Game();
         game.Start();
-        Console.WriteLine("Bedankt voor het spelen!");
+     
     }
 }
